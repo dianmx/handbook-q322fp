@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dianmx.github.io/handbook-q322fp/sitemap.xml
